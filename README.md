@@ -67,16 +67,16 @@ const vikas = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raj200X&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj200X&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikas062&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas062&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raj200X&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas062&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raj200X&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas062&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -84,7 +84,7 @@ const vikas = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raj200X&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vikas062&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
 </div>
 
 ---
@@ -93,8 +93,8 @@ const vikas = {
 
 <div align="center">
 
-[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=Raj200X&repo=SparkFlow&theme=tokyonight)](https://github.com/Raj200X/SparkFlow)
-[![Stop-Shop](https://github-readme-stats.vercel.app/api/pin/?username=Raj200X&repo=Stop-Shop&theme=tokyonight)](https://github.com/Raj200X/Stop-Shop)
+[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=SparkFlow&theme=tokyonight)](https://github.com/Raj200X/SparkFlow)
+[![Stop-Shop](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=Stop-Shop&theme=tokyonight)](https://github.com/Raj200X/Stop-Shop)
 
 </div>
 
@@ -110,7 +110,7 @@ const vikas = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raj200X&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikas062&theme=tokyonight" />
 </div>
 
 ---
