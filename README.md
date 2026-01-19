@@ -92,8 +92,8 @@ const vikas = {
 
 <div align="center">
 
-[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=SparkFlow&theme=tokyonight)](https://github.com/Raj200X/SparkFlow)
-[![Stop-Shop](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=Stop-Shop&theme=tokyonight)](https://github.com/Raj200X/Stop-Shop)
+[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=SparkFlow&theme=tokyonight)](https://github.com/vikas062/size-advisor-ai)
+[![Stop-Shop](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=Stop-Shop&theme=tokyonight)](https://github.com/vikas062/Carbon-Footprinting)
 
 </div>
 
