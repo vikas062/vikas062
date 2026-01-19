@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikas062)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikassingh62)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail:vikassingh62@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Raj200X?style=for-the-badge&logo=github)](https://github.com/vikas062)
 
@@ -73,18 +73,15 @@ const vikas = {
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vikas062&theme=tokyonight" />
 </div>
 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikas062&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
-</div>
+## 🏆 GitHub Highlights
+- ⭐ Active open-source contributor
+- 🚀 Hands-on project experience
+- 💻 Strong focus on real-world applications
 
 ---
 
@@ -99,12 +96,27 @@ const vikas = {
 </div>
 
 
-### 💡 Project Highlights
+## 🚀 Project Highlights
 
-- **⚡ SparkFlow** - Electricity usage monitoring website with real-time analytics
-- **🛒 Stop-Shop** - Full-featured E-Commerce platform with modern UI/UX
-- **🎓 LPU GPA Calculator** - Python-based tool for calculating semester GPA
-- **🍽️ Restaurant Website** *(In Progress)* - MERN stack application with full backend integration
+### 🌱 Carbon Footprinting
+A web-based solution to calculate and analyze carbon emissions, helping users understand and reduce their environmental impact.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/vikas062/Carbon-Footprinting
+
+---
+
+### 🤖 AI Size Advisor
+An AI-powered size recommendation system that helps users choose the right product size based on data-driven insights.  
+**Tech:** AI/ML, Frontend  
+🔗 https://github.com/vikas062/size-advisor-ai
+
+---
+
+### 💣 Self-Destructing File System
+A secure file system where files automatically delete themselves after a defined time or access condition — focused on privacy & security.  
+**Tech:** System Design, Security  
+🔗 
+
 
 ---
 
@@ -139,7 +151,7 @@ const vikas = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas062)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikassingh62)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikassinghgkp62@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas062)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
