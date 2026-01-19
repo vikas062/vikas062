@@ -1,72 +1,42 @@
-<!-- HERO SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=Welcome%20to%20My%20Space&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h3 align="center">✨ Building cool things with clean code & good vibes ✨</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8EC5FC&center=true&vCenter=true&width=500&lines=Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Learning+Everyday+%F0%9F%8C%B1" />
-</p>
+# 👋 Hi, I’m Raj Srivastava  
+🎓 Computer Science Student at Lovely Professional University  
+💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | ⚙️ Passionate about Scalable Systems  
 
 ---
 
-## 🌸 About Me
-
-- 💻 Passionate about **technology & design**
-- 🚀 Love building **scalable & aesthetic products**
-- 🌱 Currently learning **advanced system design**
-- ☕ Coffee + Code = Happiness
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,git,github,docker,kubernetes" />
-</p>
+### 🧰 Tech Stack & Tools  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>  
 
 ---
 
-## 📊 GitHub Stats (Aesthetic Mode)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=8EC5FC&line=E0C3FC&point=ffffff&hide_border=true" />
-</p>
+### 🚀 What I’m Working On  
+- 🌱 Strengthening **Data Structures & Algorithms** skills  
+- 🧩 Developing a **Restaurant Website** with full-stack integration (MERN stack)  
+- ☁️ Learning **DevOps tools**: Docker, Kubernetes, and CI/CD pipelines  
+- 💡 Exploring **system design** and backend scalability  
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-8EC5FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-E0C3FC?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF9A9E?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+### 📊 GitHub Stats  
+![Raj’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raj200X&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj200X&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raj200X&theme=radical)  
 
 ---
 
-## 💫 Quote I Live By
-
-> *“Code is like art – simple, expressive, and powerful.”*
+### 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/raj-srivastav-0](https://www.linkedin.com/in/rajsrivastava0/))  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggrajsrivastav0@gmail.com)  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,100:8EC5FC&height=120&section=footer"/>
-</p>
+### 🧠 Current Focus  
+> Building efficient, secure, and scalable software solutions.
