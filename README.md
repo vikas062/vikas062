@@ -83,7 +83,7 @@ const vikas = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikas062&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vikas062&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
 </div>
 
 ---
@@ -92,10 +92,12 @@ const vikas = {
 
 <div align="center">
 
-[![SparkFlow](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=SparkFlow&theme=tokyonight)](https://github.com/vikas062/size-advisor-ai)
-[![Stop-Shop](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=Stop-Shop&theme=tokyonight)](https://github.com/vikas062/Carbon-Footprinting)
+[![Size Advisor AI](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=size-advisor-ai&theme=tokyonight)](https://github.com/vikas062/size-advisor-ai)
+
+[![Carbon Footprinting](https://github-readme-stats.vercel.app/api/pin/?username=vikas062&repo=Carbon-Footprinting&theme=tokyonight)](https://github.com/vikas062/Carbon-Footprinting)
 
 </div>
+
 
 ### 💡 Project Highlights
 
