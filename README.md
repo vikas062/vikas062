@@ -67,20 +67,14 @@ const vikas = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikas062&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas062&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikas062&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas062&layout=compact&theme=tokyonight" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vikas062&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikas062&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vikas062&theme=tokyonight" />
 </div>
 
 
