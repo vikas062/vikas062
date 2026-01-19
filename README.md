@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hi there, I'm Raj Srivastava
+# 👋 Hi there, I'm Vikas Singh 
 
 ### Full Stack Developer | Cloud & DevOps Enthusiast | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggrajsrivastav0@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Raj200X?style=for-the-badge&logo=github)](https://github.com/Raj200X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vikas062)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail:vikassingh62@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Raj200X?style=for-the-badge&logo=github)](https://github.com/vikas062)
 
 </div>
 
@@ -17,7 +17,7 @@
 ## 🎓 About Me
 
 ```javascript
-const raj = {
+const vikas = {
     education: "Computer Science @ Lovely Professional University",
     location: "Rajpura, Punjab, India",
     currentFocus: ["Data Structures & Algorithms", "System Design", "DevOps"],
@@ -37,7 +37,7 @@ const raj = {
 ## 🛠️ Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -138,9 +138,9 @@ const raj = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggrajsrivastav0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raj200X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas062)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikassinghgkp62@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikas062)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
@@ -149,7 +149,7 @@ const raj = {
 
 <div align="center">
   
-### 💻 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💻 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <img src="https://komarev.com/ghpvc/?username=Raj200X&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
